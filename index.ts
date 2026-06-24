@@ -3,7 +3,7 @@ import { log } from "@clack/prompts";
 import { Command } from "commander";
 const program = new Command();
 program
-        .name("Khulja_Si_Sim")
+        .name("Khulja_Sim_Sim")
         .description("Khulja_Sim_Sim cli yt")
         .version("0.0.1");
 
